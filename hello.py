@@ -1,2 +1,3 @@
 #show greeting
-print('Hello World!')
+hello = 'Hello World'
+print(hello)
